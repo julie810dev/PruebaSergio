@@ -1,3 +1,6 @@
-Primera prueba
-SELECT * FROM tbPrueba
+Segunda prueba
+SELECT * 
+FROM tbPrueba
+END
+--Cambios sobre la primera version del archivo
 GO;
